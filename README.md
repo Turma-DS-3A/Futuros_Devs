@@ -301,8 +301,8 @@ O objetivo deste repositório é registrar e praticar conhecimentos fundamentais
 
 # 👨‍💻 Autor
 
-**Diego Leandro**
+**Alunos Protagonistas **
 
 📚 Projeto desenvolvido para fins de estudo e aprendizado em **Python, Desenvolvimento Web e APIs**.
 
-⭐ Se este repositório ajudou você, considere deixar uma estrela!
+
