@@ -19,7 +19,6 @@ Neste projeto são abordados os seguintes conceitos:
 - ✏️ PUT
 - 🗑️ DELETE
 - 🔌 APIs
-- 🔄 CRUD
 - 🐍 Frameworks Python
 - 🌶️ Flask
 
