@@ -287,7 +287,7 @@ A estrutura dos conteúdos estudados pode ser representada da seguinte forma:
 - 🌶️ Flask
 - 📡 HTTP
 - 🔌 APIs
-- 🧪 Insomnia
+- 🧪 Thunder
 - 🐙 Git
 - 🐱 GitHub
 
